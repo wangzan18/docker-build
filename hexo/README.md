@@ -24,4 +24,7 @@ ssh-keygen -t rsa -C "wangzan18@126.com"
 ```
 # 简要显示文章内容，在文档中输入下面字符，上下各留一行
 <!--more-->
+
+# 找主题
+https://hexo.io/themes/
 ```
